@@ -1,0 +1,66 @@
+.Logo img {
+    width: 30%;
+    height: auto;
+    padding: 14px;
+}
+
+.Qui {
+    margin: 30px;
+    font-size: 45px;
+}
+
+.partenaire {
+    margin: 30px;
+    font-size: 45px;
+}
+
+.certif {
+    margin: 30px;
+    font-size: 45px;
+}
+
+.presentation {
+    margin: 30px;
+    font-size: 45px;
+
+}
+
+.text {
+    display: block;
+    padding: 5px;
+    text-align: left;
+    font-size: 15px;
+    vertical-align: top;
+    margin: 30px;
+}
+
+.textdeux {
+    display: block;
+    padding: 5px;
+    text-align: left;
+    font-size: 15px;
+    vertical-align: top;
+    margin: 30px;
+}
+
+.ad img {
+    position: center;
+    width: 8%;
+    padding: 2px;
+    margin: 50px;
+}
+
+#orange {
+    width: 6%;
+}
+
+.dernier-logo img {
+    image-resolution: from-image;
+    width: 10%;
+}
+
+.ytb iframe {
+    padding: 5px;
+    font-size: 15px;
+    margin: 22px;
+}
